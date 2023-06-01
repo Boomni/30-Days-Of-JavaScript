@@ -185,7 +185,7 @@ Mac
 Command+Option+J
 
 Windows/Linux:
-Ctl+Shift+J
+Ctl+Shift+I
 ```
 
 ![Opening console](images/opening_chrome_console_shortcut.png)
